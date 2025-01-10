@@ -1,3 +1,3 @@
 # E-Commerce-Sales-Dashboard
 Analysed e-commerce sales data.
-Created an interactive dashboard using Power BI.
+Created an interactive Dashboard using Power BI.
